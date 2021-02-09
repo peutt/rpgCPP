@@ -1,2 +1,0 @@
-C:\Users\Aymeric\Desktop\rpgCPP\Debug\rpgCPP.exe
-C:\Users\Aymeric\Desktop\rpgCPP\Debug\rpgCPP.pdb

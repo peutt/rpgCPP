@@ -1,0 +1,4 @@
+C:\Users\Aymeric\Desktop\rpgCPP\Debug\rpgCPP.exe
+C:\Users\Aymeric\Desktop\rpgCPP\Debug\rpgCPP.pdb
+C:\Users\Aymeric\Desktop\rpgCPP\rpgCPP\Debug\rpgCPP.exe
+C:\Users\Aymeric\Desktop\rpgCPP\rpgCPP\Debug\rpgCPP.pdb
